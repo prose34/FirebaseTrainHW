@@ -2,7 +2,7 @@
 
 ### Firebase Assignment - Train Scheduler
 
-Live link: 
+Live link: https://prose34.github.io/FirebaseTrainHW/
 
 Administrators will be able to submit the following:
 Train Name
